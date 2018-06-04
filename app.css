@@ -3,11 +3,19 @@ body {
     background-color: lightgrey;
 }
 
-.boxes {
+h2, p, .readme-wrapper {
     text-align: center;
 }
 
 a {
     text-decoration: none;
     color: blue;
+}
+
+.boxes {
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem;
+    border: solid black;
+    border-radius: 5px;
 }

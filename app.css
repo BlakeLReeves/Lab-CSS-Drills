@@ -26,3 +26,28 @@ a:hover {
     font-weight: bold;
     color: red;
 }
+
+#box1 {
+    background-color: white;
+}
+
+#box2 {
+    background-color: aqua;
+}
+
+#box3 {
+    background-color: blueviolet;
+}
+
+#box4 {
+    background-color: beige;
+}
+
+.image {
+    width: 1rem;
+    height: 1rem;
+    background-color: brown;
+    display: inline;
+    position: absolute;
+    left: 3rem;
+}

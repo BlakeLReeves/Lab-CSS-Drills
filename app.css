@@ -51,3 +51,66 @@ a:hover {
     position: absolute;
     left: 3rem;
 }
+
+h1 {
+    color: green;
+}
+
+.favorite {
+    color: orange;
+}
+
+.other {
+    color: purple;
+}
+
+#show1 {
+    color: blue;
+}
+
+#show2 {
+    color: teal;
+}
+
+#show3 {
+    color: yellow;
+}
+
+#show4 {
+    color: brown;
+}
+
+#show5 {
+    color: crimson;
+}
+
+ul {
+    color: brown;
+}
+
+.friends {
+    color: orange;
+}
+
+.travel {
+    color: darkmagenta;
+}
+
+.food {
+    color: green;
+}
+
+#list1 {
+    color: black;
+    border: 2px solid black;
+}
+
+#list2 {
+    color: blue;
+    border: 2px solid black;
+}
+
+#list3 {
+    color: red;
+    border: 2px solid black;
+}
